@@ -22,7 +22,8 @@ To configure run:
 Configure automatically searches for all required components and packages.
 
 To compile and install run:
-	make && make install
+	make 
+	(sudo) make install
 
 
 New feature
